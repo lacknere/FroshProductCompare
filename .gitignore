@@ -4,7 +4,7 @@ coverage/
 vendor/
 var/
 phpstan.neon
-src/Resources/public/administration/frosh-product-compare.*.hot-update.js
+src/Resources/public/
 frosh-product-compare.js
 frosh-product-compare.css
 node_modules
